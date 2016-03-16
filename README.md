@@ -12,6 +12,8 @@ CV - Shahan Malik
 | Science      | C                 | 
 | Additional Science  | B          |
 | RE| B                            |
+| French| C                        |
+
 
 ###Education
 - Morpeth Secondary School Sep 2010 - July 2015

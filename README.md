@@ -22,7 +22,7 @@ CV - Shahan Malik
 
 ###Work Experience:
 <img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="240">
-- March 2016 13th-18th
+- Founders and Coders March 2016 13th-18th
 
 ###Qualities:
 + Willing to learn

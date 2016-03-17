@@ -25,7 +25,7 @@ CV - Shahan Malik
 - Founders and Coders March 2016 13th-18th
 
 ###Qualities:
-+ Willing to learn
++ Determined to learn
 + Hard working
 + Friendly
 + Helpful
